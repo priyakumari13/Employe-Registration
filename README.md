@@ -17,5 +17,5 @@ for eg:
 ## For Admin module(Click on admin)
 ### fill the login page and click on submit
 ![Screenshot (1475)](https://user-images.githubusercontent.com/121505999/209808263-d077aa63-e29d-4e58-b7bb-ff35caa3ad8f.png)
-### all the registration details will show to the admin
+### all the registration details will show to the admin which is stored in a database
 ![Screenshot (1474)](https://user-images.githubusercontent.com/121505999/209808343-fedbc525-5fa4-433e-a9e2-2f9b1ccb3cd6.png)
